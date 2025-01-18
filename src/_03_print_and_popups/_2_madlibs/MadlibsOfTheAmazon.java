@@ -9,6 +9,8 @@ public class MadlibsOfTheAmazon {
 		String prompt =  "If you find yourself having to cross a piranha-infested river, here's how to do it...";
 		
 		// Get the player to enter an adjective
+		String input = JOptionPane.showInputDialog("Hello, "+"Piranhas are more [**adjective**]");
+		
 
 		// Get the player to enter a type of liquid
 
