@@ -10,12 +10,13 @@ public class MadlibsOfTheAmazon {
 		// Get the player to enter an adjective
 		String list[] = {"ur mom", "is skibidi", "and fanum taxicals"};
 		String array[] = {"hellooo"};
+		String silly[] = new String[10];
 		String input = JOptionPane.showInputDialog("if a quiz is quizzical");
 		JOptionPane.showMessageDialog(null, "HOLA" + input);
 		// Get the player to enter a type of liquid
 		for(int i=0; i < list.length; i++) {
 			String input2 = JOptionPane.showInputDialog(list[i]);
-			array.add(input2);
+			silly.add()
 		}
 		// Get the player to enter a body part
 
