@@ -16,7 +16,7 @@ public class MadlibsOfTheAmazon {
 		// Get the player to enter a type of liquid
 		for(int i=0; i < list.length; i++) {
 			String input2 = JOptionPane.showInputDialog(list[i]);
-			silly.add()
+			silly[silly.length-1] = 
 		}
 		// Get the player to enter a body part
 
